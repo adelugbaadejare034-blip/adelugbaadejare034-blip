@@ -7,6 +7,7 @@ I am a Computer Science graduate from Landmark University and an AI/ML Developer
 I enjoy working on projects where data quality, system design, and real-world impact matter just as much as model accuracy.
 
 🚀 What I’m Working On
+
 Multimodal Healthcare AI
 
 Built a breast cancer detection system using MedCLIP and TabNet, applying an Early Fusion approach to combine structured clinical data with medical images. The goal was to improve diagnostic performance by leveraging complementary data sources rather than relying on a single modality.
